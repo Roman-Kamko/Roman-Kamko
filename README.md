@@ -9,12 +9,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="600" height="400"/>
-</div>
-
----
-
 ### Обо мне :
 Привет, я бэк java-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России
 - Я работаю java-разработчиком, занимаюсь разработкой новых систем и поддержкой бэкенд части веб-приложений
