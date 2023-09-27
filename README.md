@@ -35,6 +35,5 @@
 
 ---
 
-### :fire: Моя статистика :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roman-Kamko&theme=dark)
 
